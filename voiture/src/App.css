@@ -1,0 +1,22 @@
+.form , textarea {
+
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+
+  background-color: purple;
+  color: white;
+}
+
+h1{
+  color: purple;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
